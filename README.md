@@ -11,7 +11,7 @@
 
 ## Name of the Project
 
- > Interior Designing Landing Page
+ > Web Layout Landing Page
  
 ## Time taken to complete this project
 > 7.3 hours
